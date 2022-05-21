@@ -4,6 +4,7 @@ Cosmic needs a mansion
 
 # Contributors
 - cosmiclattes
+- afk-z10
 
 Mansion needs an architect. All architects in the universe are welcome.
 
