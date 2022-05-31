@@ -6,6 +6,7 @@ Cosmic needs a mansion
 - cosmiclattes
 - afk-z10
 - a.sagar
+- nish
 
 Mansion needs an architect. All architects in the universe are welcome.
 
