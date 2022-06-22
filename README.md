@@ -4,7 +4,7 @@ Cosmic needs a mansion
 
 # Contributors
 - cosmiclattes
-- afk-z10
+- [afk-z10](https://github.com/afk-z10)
 - a.sagar
 - nish
 
