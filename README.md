@@ -1,6 +1,6 @@
 # Mansion House
 
-Cosmic needs a mansion  
+Cosmic needs a mansion
 
 # Contributors
 - [cosmiclattes](https://github.com/cosmiclattes)
