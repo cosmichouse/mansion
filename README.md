@@ -7,7 +7,7 @@ Cosmic needs a mansion
 - afk-z10
 - a.sagar
 
-Mansion needs an architect. All architects in the universe are welcome.
+Mansion needs an architect. All architects in the universe are welcome.  
 
 # TODO
 Create a galaxy
