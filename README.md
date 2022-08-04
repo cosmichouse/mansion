@@ -8,7 +8,7 @@ Cosmic needs a mansion
 - a.sagar
 - nish
 
-Mansion needs an architect. All architects in the universe are welcome.  
+Mansion needs an architect. All architects in the universe are welcome.  .
 
 # TODO
 Create a galaxy
