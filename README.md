@@ -7,6 +7,7 @@ Cosmic needs a mansion
 - [afk-z10](https://github.com/afk-z10)
 - a.sagar
 - nish
+- bin
 
 Mansion needs an architect. All architects in the universe are welcome.  .
 
