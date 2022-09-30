@@ -8,6 +8,7 @@ Cosmic needs a mansion
 - a.sagar
 - nish
 - bin
+- z10-new
 
 Mansion needs an architect. All architects in the universe are welcome.  .
 
